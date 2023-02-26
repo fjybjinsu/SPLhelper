@@ -27,3 +27,6 @@
 
 ## 7. 실행 방법
 - 압축 파일 해제 후, index.html 실행
+
+## 8. 프로그램 실행 화면
+![spl_보조](https://user-images.githubusercontent.com/85774577/221391235-d1528664-8e46-4738-971a-c1f6a342afcb.png)
